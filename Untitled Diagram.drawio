@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-02T19:15:55.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="iM2XW5ROMJuNf4XqRH3k" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-02T23:21:07.513Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="fYzrlei_wxWXq4ULJ8Ym" version="20.6.0" type="github">
   <diagram id="efY2St_P9kEn5urG4u4p" name="Wiki structure layout">
-    <mxGraphModel dx="1315" dy="2023" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1915" dy="2023" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,8 +184,29 @@
         <mxCell id="lwHM5B6lX0Uqd2w8FueI-38" value="Bifrost" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1740" y="1960" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-39" value="Chariot&lt;br&gt;Table of Contents" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2601" y="1080" width="80" height="80" as="geometry" />
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;" edge="1" parent="1" source="lwHM5B6lX0Uqd2w8FueI-39" target="lwHM5B6lX0Uqd2w8FueI-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;" edge="1" parent="1" source="lwHM5B6lX0Uqd2w8FueI-39" target="lwHM5B6lX0Uqd2w8FueI-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;" edge="1" parent="1" source="lwHM5B6lX0Uqd2w8FueI-39" target="lwHM5B6lX0Uqd2w8FueI-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;" edge="1" parent="1" source="lwHM5B6lX0Uqd2w8FueI-39" target="lwHM5B6lX0Uqd2w8FueI-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=14;" edge="1" parent="1" source="lwHM5B6lX0Uqd2w8FueI-39" target="lwHM5B6lX0Uqd2w8FueI-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=14;" edge="1" parent="1" source="lwHM5B6lX0Uqd2w8FueI-39" target="lwHM5B6lX0Uqd2w8FueI-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;" edge="1" parent="1" source="lwHM5B6lX0Uqd2w8FueI-39" target="lwHM5B6lX0Uqd2w8FueI-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-39" value="Chariot:&lt;br&gt;Overview &amp;amp; Table of Contents" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2752.5" y="1069" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lwHM5B6lX0Uqd2w8FueI-40" value="Client Service" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1940" y="1960" width="80" height="80" as="geometry" />
@@ -259,47 +280,74 @@
         <mxCell id="lwHM5B6lX0Uqd2w8FueI-63" value="Home Page with Table of Contents for Each Main Sub Page" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="470" y="1343" width="331" height="253" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-65" value="Chariot: Overview&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2715" y="1160" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-66" value="Chariot: Developer Best Practices&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-66" value="Developer Best Practices (Chariot)&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2853.5" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-67" value="Chariot: Dev Environment Setup&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-67" value="Dev Environment Setup (Chariot)&lt;br&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2992" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-68" value="Chariot: Troubleshooting&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-68" value="&amp;nbsp;Troubleshooting (Chariot)&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3130.5" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-69" value="Chariot: Style Guide&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-69" value="Style Guide (Chariot)&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3269" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-70" value="Chariot: Integrations Overview&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;" edge="1" parent="1" source="lwHM5B6lX0Uqd2w8FueI-70" target="lwHM5B6lX0Uqd2w8FueI-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;" edge="1" parent="1" source="lwHM5B6lX0Uqd2w8FueI-70" target="lwHM5B6lX0Uqd2w8FueI-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;" edge="1" parent="1" source="lwHM5B6lX0Uqd2w8FueI-70" target="lwHM5B6lX0Uqd2w8FueI-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-70" value="Integrations Overview&amp;nbsp;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel&amp;nbsp;&lt;/span&gt;(Chariot)&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3407.5" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-71" value="Chariot: Quickbooks Online&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;" edge="1" parent="1" source="lwHM5B6lX0Uqd2w8FueI-71" target="lwHM5B6lX0Uqd2w8FueI-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=14;" edge="1" parent="1" source="lwHM5B6lX0Uqd2w8FueI-71" target="lwHM5B6lX0Uqd2w8FueI-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;" edge="1" parent="1" source="lwHM5B6lX0Uqd2w8FueI-71" target="lwHM5B6lX0Uqd2w8FueI-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-71" value="Quickbooks Online (Chariot)&lt;br&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3464" y="1320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-72" value="Chariot: MyTriumph Submission" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-72" value="MyTriumph Submission (Chariot)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3464" y="1244" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-73" value="Chariot: Business Process" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-73" value="Business Process (Chariot)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3556.5" y="1395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-74" value="Chariot: Quickbooks Reject Loop" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-74" value="Quickbooks Reject Loop (Chariot)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3832" y="1395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-75" value="Chariot: Testing Quickbooks Integration" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-75" value="Testing Quickbooks Integration (Chariot)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3694" y="1395" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-77" value="Chariot: Iris Decision Science Integration&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-77" value="Iris Decision Science Integration (Chariot)&lt;br&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3464" y="1467" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-78" value="Chariot: Debtor Links&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-78" value="Debtor Links&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3&amp;nbsp; &amp;nbsp;&lt;/span&gt;(Chariot)&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Documentation%20Page%20with%20Content%20Sections%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontFamily%3DVerdana%3BfontSize%3D14%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%222280%22%20y%3D%221640%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3552" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-79" value="Chariot: Caching" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-79" value="Caching (Chariot)" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3697.5" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;" edge="1" parent="1" source="lwHM5B6lX0Uqd2w8FueI-97" target="lwHM5B6lX0Uqd2w8FueI-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-97" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Applications &amp;amp; Services&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2646" y="857" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;fontSize=14;" edge="1" parent="1" source="lwHM5B6lX0Uqd2w8FueI-98" target="lwHM5B6lX0Uqd2w8FueI-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-98" value="Table of Contents" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2646" y="977" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
