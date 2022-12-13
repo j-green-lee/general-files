@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T19:46:23.343Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="hRpMEktHFkaeIeGV_YfN" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-13T17:09:38.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="P-b0U7Thb2T4__XK5b7x" version="20.6.0" type="github">
   <diagram id="efY2St_P9kEn5urG4u4p" name="Wiki structure layout">
-    <mxGraphModel dx="3064" dy="3316" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2189" dy="2940" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,22 +143,22 @@
           <mxGeometry x="2280" y="1640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="lwHM5B6lX0Uqd2w8FueI-23" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Operations&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="1080" width="80" height="80" as="geometry" />
+          <mxGeometry x="1120" y="2012" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lwHM5B6lX0Uqd2w8FueI-24" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Projects&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="1200" width="80" height="80" as="geometry" />
+          <mxGeometry x="1120" y="2132" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lwHM5B6lX0Uqd2w8FueI-25" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Appendix&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="2099" width="80" height="80" as="geometry" />
+          <mxGeometry x="1120" y="2252" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lwHM5B6lX0Uqd2w8FueI-26" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Archive&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="2219" width="80" height="80" as="geometry" />
+          <mxGeometry x="1120" y="2372" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lwHM5B6lX0Uqd2w8FueI-27" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Onboarding&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="960" width="80" height="80" as="geometry" />
+          <mxGeometry x="1120" y="1120" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-28" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Technology Personas&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="840" width="80" height="80" as="geometry" />
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-28" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Developer Guide&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lwHM5B6lX0Uqd2w8FueI-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Verdana;fontSize=14;" parent="1" source="lwHM5B6lX0Uqd2w8FueI-31" target="lwHM5B6lX0Uqd2w8FueI-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -637,7 +637,7 @@
         <mxCell id="aOxlkJGyLEOnqBkguj9A-63" value="Team Overviews" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3995.4" y="-192" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aOxlkJGyLEOnqBkguj9A-64" value="Org Chart" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="aOxlkJGyLEOnqBkguj9A-64" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Triumph Organization Chart&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="3995.4" y="-11" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aOxlkJGyLEOnqBkguj9A-65" value="Service Flow Diagram" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
@@ -705,6 +705,9 @@
         </mxCell>
         <mxCell id="aOxlkJGyLEOnqBkguj9A-86" value="Post-Funding Ops" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="4583.9" y="-108" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aOxlkJGyLEOnqBkguj9A-89" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Processes&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1228" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
