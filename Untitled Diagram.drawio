@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-13T17:09:38.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="P-b0U7Thb2T4__XK5b7x" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-13T17:57:41.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="_8v60jqLY4hWShLrNN0w" version="20.6.0" type="github">
   <diagram id="efY2St_P9kEn5urG4u4p" name="Wiki structure layout">
     <mxGraphModel dx="2189" dy="2940" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -148,11 +148,8 @@
         <mxCell id="lwHM5B6lX0Uqd2w8FueI-24" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Projects&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1120" y="2132" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-25" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Appendix&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="lwHM5B6lX0Uqd2w8FueI-25" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Archive&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1120" y="2252" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="lwHM5B6lX0Uqd2w8FueI-26" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Archive&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="2372" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="lwHM5B6lX0Uqd2w8FueI-27" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Onboarding&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1120" y="1120" width="80" height="80" as="geometry" />
